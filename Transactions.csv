@@ -1,0 +1,51 @@
+description,value,data,category,type
+Gasolina,148.36,03/07/26,Transporte,Pix
+Reembolso,1670.85,06/07/26,Extra,Receita
+Freelancer,1633.03,07/07/26,Trabalho,Receita
+Onibus,379.78,08/07/26,Transporte,Pix
+Academia,198.52,09/07/26,Saude,Debito
+Roupas,34.18,11/07/26,Compras,Debito
+Lanche,284.36,13/07/26,Alimentacao,Credito
+Reembolso,1283.61,14/07/26,Extra,Receita
+Farmacia,389.73,14/07/26,Saude,Debito
+Cinema,106.16,15/07/26,Lazer,Credito
+Reembolso,224.38,16/07/26,Extra,Receita
+Gasolina,212.38,17/07/26,Transporte,Debito
+Streaming,342.95,18/07/26,Lazer,Debito
+Curso online,145.87,20/07/26,Educacao,Debito
+Academia,327.21,21/07/26,Saude,Pix
+Roupas,415.28,22/07/26,Compras,Pix
+Presente,168.18,23/07/26,Compras,Pix
+Streaming,44.87,23/07/26,Lazer,Pix
+Uber,425.22,24/07/26,Transporte,Debito
+Venda item usado,1822.15,29/07/26,Extra,Receita
+Restaurante,99.35,31/07/26,Alimentacao,Pix
+Lanche,76.34,31/07/26,Alimentacao,Credito
+Streaming,226.38,31/07/26,Lazer,Credito
+Curso online,147.53,01/08/26,Educacao,Pix
+Bico de fim de semana,1117.17,03/08/26,Trabalho,Receita
+Venda item usado,1702.76,04/08/26,Extra,Receita
+Freelancer,1910.35,06/08/26,Trabalho,Receita
+Academia,29.55,07/08/26,Saude,Pix
+Streaming,153.38,07/08/26,Lazer,Pix
+Curso online,39.04,08/08/26,Educacao,Pix
+Gasolina,346.79,09/08/26,Transporte,Credito
+Conta de agua,477.96,09/08/26,Moradia,Credito
+Aluguel,404.01,09/08/26,Moradia,Debito
+Conta de agua,261.61,11/08/26,Moradia,Pix
+Roupas,416.39,12/08/26,Compras,Pix
+Bico de fim de semana,1735.05,13/08/26,Trabalho,Receita
+Lanche,289.34,14/08/26,Alimentacao,Credito
+Supermercado,380.28,14/08/26,Alimentacao,Debito
+Salario,2380.84,16/08/26,Trabalho,Receita
+Aluguel,261.23,17/08/26,Moradia,Debito
+Cinema,173.36,18/08/26,Lazer,Debito
+Academia,202.49,21/08/26,Saude,Pix
+Streaming,293.48,22/08/26,Lazer,Credito
+Supermercado,470.62,26/08/26,Alimentacao,Debito
+Reembolso,2598.75,26/08/26,Extra,Receita
+Restaurante,481.2,29/08/26,Alimentacao,Pix
+Lanche,35.03,30/08/26,Alimentacao,Credito
+Restaurante,231.04,30/08/26,Alimentacao,Credito
+Supermercado,39.81,30/08/26,Alimentacao,Pix
+Lanche,92.23,31/08/26,Alimentacao,Pix
