@@ -402,8 +402,6 @@ Gráficos
 | 🐼 Pandas     | Manipulação e análise dos dados       |
 | 📊 Matplotlib | Visualização dos dados                |
 | 📄 CSV        | Persistência das informações          |
-| 🔧 Git        | Controle de versão                    |
-| 🐙 GitHub     | Hospedagem e versionamento do projeto |
 
 ---
 
@@ -488,26 +486,6 @@ Posteriormente, os dados podem ser carregados pelo módulo de análise para gera
 
 ---
 
-# 🚀 Possíveis melhorias
-
-O projeto ainda pode evoluir para uma aplicação mais completa.
-
-Algumas possibilidades futuras:
-
-* [ ] Implementar a opção de **Estatísticas** no menu;
-* [ ] Utilizar `datetime` para validação e padronização das datas;
-* [ ] Melhorar o tratamento de valores negativos;
-* [ ] Adicionar filtros por período;
-* [ ] Criar mais indicadores financeiros;
-* [ ] Criar um dashboard interativo;
-* [ ] Utilizar SQLite como banco de dados;
-* [ ] Criar uma interface gráfica;
-* [ ] Adicionar testes automatizados;
-* [ ] Integrar os resultados com Power BI;
-* [ ] Criar metas e acompanhamento financeiro;
-* [ ] Adicionar previsões de gastos.
-
----
 
 # 🎯 Objetivo
 
